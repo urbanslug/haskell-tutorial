@@ -1,5 +1,5 @@
 main = do
-  putStrLn "Enter stuff"
+ -- putStrLn "Enter stuff"
   char <- getChar
   if char /= ' '
      then do
